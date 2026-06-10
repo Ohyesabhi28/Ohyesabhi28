@@ -15,9 +15,7 @@
 
 <!-- ![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28&theme=dark&accent=%2360A5FA&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C) -->
 
-## 💼 Experience
-
-**Backend Developer Intern** — XMinds Infotech (2026)
+![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28&theme=dark&accent=%2360A5FA&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C)
 
 ## 🌐 Socials:
 
