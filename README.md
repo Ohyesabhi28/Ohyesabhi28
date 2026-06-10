@@ -1,5 +1,8 @@
 # 💫 About Me:
-![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=gaearon&theme=dark&accent=%2360A5FA&title=Abhinav%20Nair&subtitle=AI%20Engineer%20%C2%B7%20From%20Models%20to%20Production)
+
+![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=Ohyesabhi28\&theme=dark\&accent=%2360A5FA\&title=Abhinav%20Nair\&subtitle=AI%2FML%20Engineer%20%C2%B7%20Building%20Intelligent%20Software)
+
+![Typing Headline](https://coolreadme.xyz/api/typing-card?user=Ohyesabhi28\&theme=dark\&accent=%2360A5FA\&lines=Learning%2BAI%2Bby%2BBuilding%7COpen%2Bto%2BAI%2FML%2BRoles%7CIndia)
 
 🔭 Building AI/ML applications and scalable backend systems<br><br>
 👯 Open to collaborating on Machine Learning, NLP, AI, and Full-Stack projects<br><br>
@@ -12,11 +15,7 @@
 
 ![AI Tool Card](https://coolreadme.xyz/api/ai-card?tool=claude\&role=builder\&user=Ohyesabhi28\&since=2024\&tagline=Turning%20ideas%20into%20intelligent%20software)
 
-<!-- Uncomment if GitHub renders it correctly -->
-
-<!-- ![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28&theme=dark&accent=%2360A5FA&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C) -->
-
-![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28&theme=dark&accent=%2360A5FA&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C)
+![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28\&theme=dark\&accent=%2360A5FA\&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C)
 
 ## 🌐 Socials:
 
