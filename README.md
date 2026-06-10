@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=gaearon&theme=dark&accent=%2360A5FA&title=Abhinav%20Nair&subtitle=AI%20Engineer%20%C2%B7%20From%20Models%20to%20Production)
 
 🔭 Building AI/ML applications and scalable backend systems<br><br>
 👯 Open to collaborating on Machine Learning, NLP, AI, and Full-Stack projects<br><br>
