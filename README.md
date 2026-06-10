@@ -11,7 +11,13 @@
 
 ![AI Tool Card](https://coolreadme.xyz/api/ai-card?tool=claude\&role=builder\&user=Ohyesabhi28\&since=2024\&tagline=Turning%20ideas%20into%20intelligent%20software)
 
-![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28\&theme=dark\&accent=%2360A5FA\&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C)
+<!-- Uncomment if GitHub renders it correctly -->
+
+<!-- ![Experience](https://coolreadme.xyz/api/experience-card?user=Ohyesabhi28&theme=dark&accent=%2360A5FA&entries=XMinds%20Infotech%7CBackend%20Developer%20Intern%7C2026%7C) -->
+
+## 💼 Experience
+
+**Backend Developer Intern** — XMinds Infotech (2026)
 
 ## 🌐 Socials:
 
@@ -32,7 +38,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge\&logo=numpy\&logoColor=blue)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
 
 # 📊 GitHub Stats:
 
