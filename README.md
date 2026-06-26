@@ -3,7 +3,7 @@
 
 # Abhinav Nair
 
-### AI/ML Engineer • Backend Developer • Building Intelligent Software
+### • AI/ML Engineer • 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Backend+Developer;Building+Intelligent+Software;Exploring+Agentic+AI+and+LLMs;Open+to+AI%2FML+and+Software+Engineering+Roles" />
 
