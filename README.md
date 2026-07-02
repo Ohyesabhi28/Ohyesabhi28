@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # Abhinav Nair
 
-### • AI/ML Engineer • 
+### • AI/ML Engineer •
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Backend+Developer;Building+Intelligent+Software;Exploring+Agentic+AI+and+LLMs;Open+to+AI%2FML+and+Software+Engineering+Roles" />
 
@@ -11,17 +10,17 @@
 
 ---
 
-## About Me
+# About Me
 
 - B.Tech Computer Science (AI)
 - Building AI-powered applications and scalable backend systems
 - Exploring Agentic AI, Reinforcement Learning, Deep Learning, and Large Language Models
 - Interested in Machine Learning, Backend Engineering, MLOps, and Cloud Technologies
-- Comfortable with Python, Java, AWS, PostgreSQL, and System Design
+- Comfortable with Python, Java, AWS, PostgreSQL, Neo4j, and System Design
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -49,13 +48,13 @@
 
 ---
 
-## Featured Project
+# Featured Project
 
-### HPCL IntelliFlow
+## HPCL IntelliFlow
 
 AI-powered demand forecasting and intelligent fuel station utilization platform developed for the **HP Power Labs National Hackathon**.
 
-**Highlights**
+### Highlights
 
 - Time-series demand forecasting
 - GIS & OpenStreetMap integration
@@ -65,12 +64,13 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 
 ---
 
-## Achievements
+# Achievements
 
-- Top 315 teams — HP Power Labs National Hackathon
+- Top 315 Teams — HP Power Labs National Hackathon
+
 ---
 
-## Current Focus
+# Current Focus
 
 - Agentic AI
 - Reinforcement Learning
@@ -80,26 +80,34 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ohyesabhi28&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyesabhi28&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ohyesabhi28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyesabhi28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<br><br>
+
 <img src="https://streak-stats.demolab.com?user=Ohyesabhi28&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-## Connect
+# Connect
+
+<div align="center">
 
 <a href="https://linkedin.com/in/abhinav2825">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:abhinavnair2nt5@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-```
+
+</div>
