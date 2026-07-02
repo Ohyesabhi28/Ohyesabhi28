@@ -2,9 +2,9 @@
 
 # Abhinav Nair
 
-### • AI/ML Engineer •
+### AI/ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Backend+Developer;Building+Intelligent+Software;Exploring+Agentic+AI+and+LLMs;Open+to+AI%2FML+and+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Backend+Developer;Building+Intelligent+Software;Exploring+Agentic+AI+and+LLMs;Open+to+AI%2FML+and+Software+Engineering+Roles"/>
 
 </div>
 
@@ -22,14 +22,14 @@
 
 # Tech Stack
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### AI / Machine Learning
+## AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
@@ -37,9 +37,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
-### Backend & Cloud
+## Backend & Cloud
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
@@ -60,7 +61,7 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 - GIS & OpenStreetMap integration
 - Fleet rerouting optimization
 - Interactive analytics dashboard
-- Machine Learning–driven decision support
+- Machine Learning-driven decision support
 
 ---
 
@@ -75,22 +76,20 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 - Agentic AI
 - Reinforcement Learning
 - Large Language Models
-- Production ML Systems
+- Production Machine Learning Systems
 - Backend Engineering
 
 ---
 
-# GitHub Statistics
+# GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ohyesabhi28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyesabhi28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=Ohyesabhi28&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ohyesabhi28&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohyesabhi28&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
