@@ -99,14 +99,8 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abhinav2825">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:abhinavnair2nt5@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+<a href="https://linkedin.com/in/abhinav2825"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:abhinavnair2nt5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 </div>
