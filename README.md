@@ -68,10 +68,6 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 ## Achievements
 
 - Top 315 teams — HP Power Labs National Hackathon
-- Google Cloud Skill Badges
-  - BigQuery ML
-  - Cloud Computing Foundations
-
 ---
 
 ## Current Focus
