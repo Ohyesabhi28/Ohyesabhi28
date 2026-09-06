@@ -49,7 +49,7 @@
 
 ---
 
-# Featured Project
+# Featured Projects
 
 ## HPCL IntelliFlow
 
@@ -62,6 +62,20 @@ AI-powered demand forecasting and intelligent fuel station utilization platform 
 - Fleet rerouting optimization
 - Interactive analytics dashboard
 - Machine Learning-driven decision support
+
+---
+
+## Recova
+
+AI-powered revenue recovery platform that helps businesses identify failed digital payments, automate recovery workflows, and reduce revenue leakage through intelligent analytics and monitoring.
+
+### Highlights
+
+- Failed payment detection and analysis
+- Revenue recovery workflow automation
+- Real-time analytics dashboard
+- Transaction monitoring and insights
+- Secure backend API integration
 
 ---
 
