@@ -78,10 +78,10 @@ Revenue recovery platform that detects failed digital payments, automates recove
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
 <td width="33%" valign="top" align="center">
-<h3>AI Expense Tracker</h3>
-<img src="https://img.shields.io/badge/status-In%20Progress-F59E0B?style=for-the-badge"/>
-<p>Personal finance app with natural-language spending queries (text-to-SQL) and LLM categorization</p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<h3>ORR Pain Index</h3>
+<img src="https://img.shields.io/badge/status-Live-22C55E?style=for-the-badge"/>
+<p>Live Bengaluru commute tracker with real-time travel times across tech corridors, route rankings, historical trends and best departure-time insights</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
 </td>
 <td width="33%" valign="top" align="center">
 <h3>AI Interviewer</h3>
@@ -134,14 +134,45 @@ Revenue recovery platform that detects failed digital payments, automates recove
 
 ## Hackathons & Competitions
 
-- **Top 315 Teams**, HP Power Labs National Hackathon
-- **Top 1000 Teams**, Amazon ML Challenge
-- **Participant**, OpenCV AI Competition 2026 (OpenCV 5 + AWS)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Competing+nationally+in+AI+and+ML;Building+under+deadlines;Learning+by+shipping"/>
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Top%20315-EAB308?style=for-the-badge"/>
+<h3>HP Power Labs</h3>
+<p>National Hackathon<br/>Project: <b>HPCL IntelliFlow</b></p>
+<img src="https://img.shields.io/badge/Forecasting-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/GIS-30363D?style=flat-square"/>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Top%201000-FF9900?style=for-the-badge"/>
+<h3>Amazon ML Challenge</h3>
+<p>National ML competition</p>
+<img src="https://img.shields.io/badge/Machine%20Learning-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Python-30363D?style=flat-square"/>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Participant-8B5CF6?style=for-the-badge"/>
+<h3>OpenCV AI Competition 2026</h3>
+<p>OpenCV 5 + AWS<br/>Project: <b>InspectLoop</b></p>
+<img src="https://img.shields.io/badge/Computer%20Vision-30363D?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI-30363D?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 ## Certifications
 
-- **Google Cloud** certified · **BigQuery ML** · **Gemini Certified University Student**
-- **AWS** foundations certification
+<div align="center">
+
+<!-- To link a badge, wrap it like the McKinsey one: <a href="CERT_URL"> ... </a> -->
+<img src="https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery%20ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20Certified%20University%20Student-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<a href="https://www.credly.com/badges/48ad5278-1a12-4d7e-b25b-23fbd7077046"><img src="https://img.shields.io/badge/McKinsey%20Forward%20Program-051C2C?style=for-the-badge"/></a>
+
+</div>
 
 ---
 
