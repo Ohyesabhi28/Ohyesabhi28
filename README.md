@@ -79,7 +79,7 @@ Revenue recovery platform that detects failed digital payments, automates recove
 </td>
 <td width="33%" valign="top" align="center">
 <h3>ORR Pain Index</h3>
-<img src="https://img.shields.io/badge/status-Live-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-In%20Progress-F59E0B?style=for-the-badge"/>
 <p>Live Bengaluru commute tracker with real-time travel times across tech corridors, route rankings, historical trends and best departure-time insights</p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
 </td>
