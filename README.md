@@ -8,7 +8,7 @@
 
 <a href="https://linkedin.com/in/abhinav2825"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhinavnair2nt5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ohyesabhi28&style=flat-square&color=60A5FA&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ohyesabhi28&style=flat-square&color=60A5FA&label=Profile+Views&abbreviated=true"/>
 
 </div>
 
@@ -65,13 +65,34 @@ Revenue recovery platform that detects failed digital payments, automates recove
 
 ## Currently Building
 
-| Project | What it does |
-|---|---|
-| **InspectLoop** | Agentic surface-defect inspection agent for the **OpenCV AI Competition 2026** (OpenCV 5 + AWS) |
-| **AI Expense Tracker** | Personal finance app with natural-language spending queries (text-to-SQL) and LLM categorization. FastAPI, Postgres, Lambda, Bedrock |
-| **AI Interviewer** | Agentic mock-interview platform with built-in company research so students can prep in one place |
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Work+in+progress...;Shipping+agentic+AI+one+commit+at+a+time;Stay+tuned+for+launches"/>
+</div>
 
----
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>InspectLoop</h3>
+<img src="https://img.shields.io/badge/status-Competing-8B5CF6?style=for-the-badge"/>
+<p>Agentic surface-defect inspection agent for the <b>OpenCV AI Competition 2026</b></p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>AI Expense Tracker</h3>
+<img src="https://img.shields.io/badge/status-In%20Progress-F59E0B?style=for-the-badge"/>
+<p>Personal finance app with natural-language spending queries (text-to-SQL) and LLM categorization</p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>AI Interviewer</h3>
+<img src="https://img.shields.io/badge/status-In%20Progress-F59E0B?style=for-the-badge"/>
+<p>Agentic mock-interview platform with built-in company research so students can prep in one place</p>
+<img src="https://img.shields.io/badge/Agentic%20AI-60A5FA?style=flat-square"/> <img src="https://img.shields.io/badge/LLMs-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## Tech Stack
 
