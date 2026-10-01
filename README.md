@@ -8,7 +8,7 @@
 
 <a href="https://linkedin.com/in/abhinav2825"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhinavnair2nt5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ohyesabhi28&style=flat-square&color=60A5FA&label=Profile+Views&abbreviated=true"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Ohyesabhi28.Ohyesabhi28&left_text=Profile%20Views&left_color=%23555555&right_color=%2360A5FA"/>
 
 </div>
 
